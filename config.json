@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sql-basics",
+      "title": "SQL Basics & Database Queries",
+      "description": "Learn SQL fundamentals with SELECT, INSERT, UPDATE, and DELETE statements using a student database.",
+      "path": "assignments/sql-basics",
+      "dueDate": "2026-06-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
